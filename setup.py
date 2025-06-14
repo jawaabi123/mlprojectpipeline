@@ -1,6 +1,7 @@
 from setuptools import find_packages,setup
 
 #'-e .' is given in the requirements.txt to indicate the presence of setup.py file and that will build the project package
+
 def get_requirements(file_path:str):
     """
     this function will return the list of requirements for the project
