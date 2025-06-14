@@ -1,4 +1,5 @@
 import sys
+from src.logger import logging
 
 def detailed_ex_message(error_message,error_detail:sys):
     _,_,exec_tb=error_detail.exc_info() #current exception's traceback object

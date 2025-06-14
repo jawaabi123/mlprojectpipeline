@@ -21,6 +21,5 @@ logging.basicConfig(
     # Will not capture DEBUG messages
     
 )
-    
-    # 
+
     
