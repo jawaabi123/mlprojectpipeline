@@ -3,4 +3,7 @@ pandas
 seaborn
 matplotlib
 warnings
--e .
+scikit-learn
+catboost
+xgboost
+# -e .
